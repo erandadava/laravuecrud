@@ -3,7 +3,7 @@ after Cloning please do the following command:
 
 Composer install
 
-setup your .env file to your liking
+setup your .env file according to your database
 
 npm install
 
